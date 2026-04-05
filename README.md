@@ -2,7 +2,6 @@
 
 A minimal Hacker News monitoring agent. Polls the [HN Algolia API](https://hn.algolia.com/api) for new stories matching your queries and streams results as JSONL to stdout. Optionally POSTs each result to a webhook.
 
-Zero dependencies — just Python 3.7+ standard library.
 
 ## Quick start
 
